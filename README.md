@@ -9,5 +9,11 @@ Benchmarks Truncated SVD against PCA on explained variance, training time, and m
 Clusters customers using K-Means and profiles each segment by top purchased products and countries.
 Evaluates recommendation performance using Hit Rate @ 10 against a traditional best-seller baseline.
 
+Total rows across all sheets: 1067371
+
 Required Libraries
 pip install numpy pandas scikit-learn scipy pickle
+
+Run:
+build_matix.ipynb
+ml_model.ipynb
